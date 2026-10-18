@@ -1,0 +1,1 @@
+import education from './education.js';import internships from './internships.js';import projects from './projects.js';import achievements from './achievements.js';import drawings from './drawings.js';export const regions=[education,internships,projects,achievements,drawings];
